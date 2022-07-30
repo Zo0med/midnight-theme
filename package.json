@@ -3,7 +3,7 @@
     "displayName": "midnight-theme",
     "description": "",
     "version": "0.0.1",
-    "author": "Zo0medo",
+    "publisher": "Zo0medo",
     "icon": "./logo128.png",
     "engines": {
         "vscode": "^1.69.0"
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "m",
+                "label": "midnight-theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Theme.json"
             }
