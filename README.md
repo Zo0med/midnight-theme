@@ -1,2 +1,2 @@
 # Midnight-theme
-This is a Vscode theme what i worked on myself
+This is a Vscode theme that i worked on myself
